@@ -23,12 +23,14 @@ PATH_TO_FSC147_DATASET
 ├──── images_384_VarV2
 │    ├──── 6146 images (.jpg)
 │ 
-├────annotation_FSC147_384.json (annotation file)
-├────ImageClasses_FSC147.txt (category for each image)
+├────annotation_FSC147_384.json (annotation file - updated with extra images annotation)
+├────ImageClasses_FSC147.txt (category for each image - - updated with extra images annotation)
 ├────Train_Test_Val_FSC_147.json (official data splitation file, which is not used in our code)
-├────train.txt (We generate the list from official json file)
+├────train.txt (We generate the list from official JSON file)
 ├────val.txt
 ├────test.txt
+├────test_addn.txt (Replace config file test output from test.txt to this if you want to visualize additional images outputs - set visualization to True)
+
 
 ````
 
