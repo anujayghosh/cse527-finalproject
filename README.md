@@ -3,12 +3,15 @@
 Final project source code for CSE 527 : Intro to Computer Vision (modified from https://github.com/flyinglynx/Bilinear-Matching-Network/tree/main)
 
 Project Member: Anujay Ghosh
+
 Supervisor: Jingyi Xu
+
 Instructor: Prof. Dimitris Samaras
 
 Code running successfully on Python '3.9.19', Pytorch '2.2.2+cu121' - source files and dataset for Dot Annotation Integration located in home/projuser/anujayghosh on CV Lab NFS if needed.
 
 Dataset Preparation:
+
 FSC 147 Official Dataset and Density Maps can be downloaded from the link: https://github.com/cvlab-stonybrook/LearningToCountEverything 
 
 Please place them in the PATH_TO_FSC147_DATASET folder according to the path structure below.
