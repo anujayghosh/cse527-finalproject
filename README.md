@@ -6,6 +6,8 @@ Project Member: Anujay Ghosh
 Supervisor: Jingyi Xu
 Instructor: Prof. Dimitris Samaras
 
+Code running successfully on Python '3.9.19', Pytorch '2.2.2+cu121' - source files and dataset for Dot Annotation Integration located in home/projuser/anujayghosh on CV Lab NFS if needed.
+
 Dataset Preparation:
 Path structure used in our code will be like :
 ````
