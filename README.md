@@ -49,6 +49,9 @@ Execution of Model:
 Integration of Dot Annotations:
 Checkpoints can be downloaded from (https://drive.google.com/drive/folders/1q83UQ_qIpR5TGJwZD5lwabb9-hnwIfg_?usp=sharing) and added to the repository. Each folder has "model_best.pth" file with the trained weights for testing and analysis. 
 
+Please ensure test is set to test.txt for Testing and change it to val.txt for Validation if not already done.
+Model Checkpoint folder should be the model being used in the {config_file}.yaml file - (done already).
+
 Please use the following table to run the commands and replace the config file names in the command above as necessary:
 |Total Exemplars|OG BB| Pseudo BB|Test| |Val| |Model Checkpoint|Config| | |
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
@@ -56,5 +59,6 @@ Please use the following table to run the commands and replace the config file n
 |4|3|3|17.78|100.69|15.76|53.98|bmnet+_ep3_epoch300_3|bmnet+_fsc147_3.yaml|test_bmnet+fsc147_3.yaml|val_bmnet+fsc147_3.yaml|
 |5|3|2|16.63|96.36|15.75|55.25|bmnet+_ep3_epoch300_2|bmnet+_fsc147_2.yaml|test_bmnet+fsc147_2.yaml|val_bmnet+fsc147_2.yaml|
 |6|3|1|16.41|95.41|16.23|54.25|bmnet+_ep3_epoch300|bmnet+_fsc147.yaml|test_bmnet+fsc147.yaml|val_bmnet+fsc147.yaml|
+|3|3|0|20.28|98.86|16.43|55.98|bmnet+_ep3_epoch300_0|bmnet+.yaml|test_bmnet+.yaml|test_bmnet+.yaml|
 
 
