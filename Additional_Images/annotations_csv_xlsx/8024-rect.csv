@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+airplane,77,88,121,125,8024.jpg,512,384
+airplane,195,60,131,112,8024.jpg,512,384
+airplane,306,82,144,123,8024.jpg,512,384

@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+seat,303,152,136,201,8023.jpg,577,384
+seat,139,153,139,200,8023.jpg,577,384
+seat,453,154,123,200,8023.jpg,577,384

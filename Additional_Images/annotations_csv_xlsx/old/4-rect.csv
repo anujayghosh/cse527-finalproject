@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+balloons,13,129,23,27,4.jpg,575,384
+balloons,133,148,21,23,4.jpg,575,384
+balloons,259,48,20,23,4.jpg,575,384

@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+swan,82,110,47,39,8021.jpg,512,384
+swan,393,81,39,42,8021.jpg,512,384
+swan,330,158,51,34,8021.jpg,512,384

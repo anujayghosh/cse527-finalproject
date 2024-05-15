@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+tablet,313,57,62,62,8022.jpg,614,384
+tablet,223,27,71,45,8022.jpg,614,384
+tablet,209,191,43,72,8022.jpg,614,384

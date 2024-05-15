@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+astronaut,287,186,42,113,8017.jpg,683,384
+astronaut,471,205,48,89,8017.jpg,683,384
+astronaut,346,194,40,100,8017.jpg,683,384

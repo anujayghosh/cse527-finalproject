@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+sunflower,231,190,66,77,8012.jpg,385,384
+sunflower,301,160,82,88,8012.jpg,385,384
+sunflower,112,225,71,75,8012.jpg,385,384

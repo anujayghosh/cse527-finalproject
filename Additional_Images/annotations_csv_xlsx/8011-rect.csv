@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+goldfish,67,15,44,24,8011.jpg,683,384
+goldfish,185,15,32,35,8011.jpg,683,384
+goldfish,36,110,38,33,8011.jpg,683,384

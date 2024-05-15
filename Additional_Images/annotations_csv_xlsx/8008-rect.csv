@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+flower,48,179,7,6,8008.jpg,256,384
+flower,26,173,7,8,8008.jpg,256,384
+flower,44,153,8,8,8008.jpg,256,384

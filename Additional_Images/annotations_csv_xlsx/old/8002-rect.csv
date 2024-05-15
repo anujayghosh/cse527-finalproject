@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+barrel,114,139,125,36,8002.jpg,500,384
+barrel,206,110,93,23,8002.jpg,500,384
+barrel,14,105,80,16,8002.jpg,500,384

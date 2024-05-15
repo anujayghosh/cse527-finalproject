@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+star,50,22,22,22,8007.jpg,623,384
+star,103,59,22,20,8007.jpg,623,384
+star,52,96,24,22,8007.jpg,623,384

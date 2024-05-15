@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+car,209,178,67,31,8016.jpg,576,384
+car,460,22,50,62,8016.jpg,576,384
+car,128,234,53,74,8016.jpg,576,384

@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+avocado,34,6,65,84,8015.jpg,383,384
+avocado,38,269,65,94,8015.jpg,383,384
+avocado,168,274,68,88,8015.jpg,383,384

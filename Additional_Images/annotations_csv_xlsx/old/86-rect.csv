@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+tomato,71,110,70,68,86.jpg,438,384
+tomato,307,190,68,67,86.jpg,438,384
+tomato,191,190,70,69,86.jpg,438,384

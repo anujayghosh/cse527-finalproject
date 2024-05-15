@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="bigcortex.cs.stonybrook.edu" id="cc0114a0-bbaa-419f-bf4f-69333dbc31a7" port="130" nameFormat="DESCRIPTIVE" username="projuser" useOpenSSHConfig="false" />
+    </configs>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+polaroid,37,12,45,55,8020.jpg,384,384
+polaroid,89,67,45,56,8020.jpg,384,384
+polaroid,316,322,46,52,8020.jpg,384,384

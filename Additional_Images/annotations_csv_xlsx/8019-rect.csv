@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+pebble,127,116,45,43,8019.jpg,384,384
+pebble,231,147,36,39,8019.jpg,384,384
+pebble,168,233,44,42,8019.jpg,384,384

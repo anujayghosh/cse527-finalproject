@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d811f3b2-ea54-4c47-b73a-af7d47ce8fe8" name="bignet.cs.stonybrook.edu">
+        <fileTransfer accessType="SFTP" host="bigcortex.cs.stonybrook.edu" port="130" sshConfigId="cc0114a0-bbaa-419f-bf4f-69333dbc31a7" sshConfig="projuser@bigcortex.cs.stonybrook.edu:130 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

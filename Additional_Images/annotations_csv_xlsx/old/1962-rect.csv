@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+bottle cap,130,25,81,85,1962.jpg,384,384
+bottle cap,101,146,82,85,1962.jpg,384,384
+bottle cap,226,245,80,82,1962.jpg,384,384

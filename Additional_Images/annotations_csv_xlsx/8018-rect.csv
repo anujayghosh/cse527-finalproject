@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+tennis balls,70,239,21,21,8018.jpg,512,384
+tennis balls,327,296,24,24,8018.jpg,512,384
+tennis balls,143,328,26,26,8018.jpg,512,384

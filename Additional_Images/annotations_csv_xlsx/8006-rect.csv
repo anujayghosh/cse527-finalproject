@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+pit crew,205,65,66,84,8006.jpg,615,384
+pit crew,281,282,55,47,8006.jpg,615,384
+pit crew,341,298,55,59,8006.jpg,615,384
