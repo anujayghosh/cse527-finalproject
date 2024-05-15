@@ -39,7 +39,9 @@ Execution of Model:
 ````
 
 Integration of Dot Annotations:
-Please use the following table to run the commands and replace the config files as necessary:
+Checkpoints can be downloaded from (https://drive.google.com/drive/folders/1q83UQ_qIpR5TGJwZD5lwabb9-hnwIfg_?usp=sharing) and added to the repository. Each folder has "model_best.pth" file with the trained weights for testing and analysis. 
+
+Please use the following table to run the commands and replace the config file names in the command above as necessary:
 |Total Exemplars|OG BB| Pseudo BB|Test| |Val| |Model Checkpoint|Config| | |
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
 | | | |MAE|MSE|MAE|MSE| |Training|Testing|Validation|
