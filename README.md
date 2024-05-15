@@ -31,6 +31,10 @@ PATH_TO_FSC147_DATASET
 ````
 
 Execution of Model: 
+````
+    cd CODE_DIRECTORY
+    python train.py --cfg 'config/{configuration_file_name}.yaml'
+````
 
 Integration of Dot Annotations:
 Please use the following table to run the commands and replace the config files as necessary:
