@@ -9,7 +9,13 @@ Instructor: Prof. Dimitris Samaras
 Code running successfully on Python '3.9.19', Pytorch '2.2.2+cu121' - source files and dataset for Dot Annotation Integration located in home/projuser/anujayghosh on CV Lab NFS if needed.
 
 Dataset Preparation:
-Path structure used in our code will be like :
+FSC 147 Official Dataset and Density Maps can be downloaded from the link: https://github.com/cvlab-stonybrook/LearningToCountEverything 
+
+Please place them in the PATH_TO_FSC147_DATASET folder according to the path structure below.
+
+If you want to analyze and visualize the additional images, please place the images and density maps in the Additional_Images folder with the images and density maps of the FSC147 data.
+
+The path structure used in our code will be like this:
 ````
 
 checkpoints
