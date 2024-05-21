@@ -59,9 +59,9 @@ Please use the following table to run the commands and replace the config file n
 |Total Exemplars|OG BB| Pseudo BB|Test| |Val| |Model Checkpoint|Config| | |
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
 | | | |MAE|MSE|MAE|MSE| |Training|Testing|Validation|
-|4|3|3|17.78|100.69|15.76|53.98|bmnet+_ep3_epoch300_3|bmnet+_fsc147_3.yaml|test_bmnet+fsc147_3.yaml|val_bmnet+fsc147_3.yaml|
+|4|3|1|17.78|100.69|15.76|53.98|bmnet+_ep3_epoch300_3|bmnet+_fsc147_3.yaml|test_bmnet+fsc147_3.yaml|val_bmnet+fsc147_3.yaml|
 |5|3|2|16.63|96.36|15.75|55.25|bmnet+_ep3_epoch300_2|bmnet+_fsc147_2.yaml|test_bmnet+fsc147_2.yaml|val_bmnet+fsc147_2.yaml|
-|6|3|1|16.41|95.41|16.23|54.25|bmnet+_ep3_epoch300|bmnet+_fsc147.yaml|test_bmnet+fsc147.yaml|val_bmnet+fsc147.yaml|
+|6|3|3|16.41|95.41|16.23|54.25|bmnet+_ep3_epoch300|bmnet+_fsc147.yaml|test_bmnet+fsc147.yaml|val_bmnet+fsc147.yaml|
 |3|3|0|20.28|98.86|16.43|55.98|bmnet+_ep3_epoch300_0|bmnet+.yaml|test_bmnet+.yaml|test_bmnet+.yaml|
 
 
